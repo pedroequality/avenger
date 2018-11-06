@@ -1,4 +1,4 @@
 # Misiones
 
-*Investigar al Dr. Moon
-*Capturar a REd Skull
+* Investigar al Dr. Moon
+* Capturar a REd Skull
